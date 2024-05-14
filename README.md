@@ -1,0 +1,4 @@
+- 👋 Hi, I’m redha
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c,python,dart(flutter).
+- 📫 How to reach me t.me/Kali_Linux_DedSec
